@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`currencyConversion 1`] = `
+<span
+  className=""
+>
+  0.0100000000 BTC
+</span>
+`;
+
+exports[`currencyConversion 2`] = `
+<span
+  className=""
+>
+  10 mBTC
+</span>
+`;
+
+exports[`currencyConversion 3`] = `
+<span
+  className=""
+>
+  0.0100000000
+</span>
+`;
+
+exports[`currencyConversion 4`] = `
+<span
+  className=""
+>
+  0.01 BTC
+</span>
+`;
+
+exports[`currencyConversion 5`] = `
+<span
+  className=""
+>
+  1,000 mBTC
+</span>
+`;
